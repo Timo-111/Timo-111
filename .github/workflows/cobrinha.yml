@@ -13,7 +13,7 @@ jobs:
 
       - uses: Platane/snk@master
         id: snake-gif
-        width:
+        with:
           github_user_name: Timo-111
           svg_out_path: dist/github-contribution-grid-snake.svg
 
